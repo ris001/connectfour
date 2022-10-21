@@ -8,10 +8,10 @@ https://ris1234.github.io/daily-js-code-challenges/
 
 image of game: 
 
-![game](img/gameeee.png)
+![game](gameeee.png)
 ## Wireframe
 image of wireframe:
-![wireframe](img/wireframe.png)
+![wireframe](wireframe.png)
 ### PseudoCode
 
 6x7
