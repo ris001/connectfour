@@ -1,11 +1,17 @@
 # Connect Four 
 
+languages used: HTML, CSS, Javascript
 ## Background
 
+Game link:
+https://ris1234.github.io/daily-js-code-challenges/
 
+image of game: 
+
+![game](img/gameeee.png)
 ## Wireframe
-/Users/raufislam/code/my-dev-skills-lab/img/45EBA3DA-8009-4CE5-944F-8986939EE5CA_1_102_a.jpeg
-
+image of wireframe:
+![wireframe](img/wireframe.png)
 ### PseudoCode
 
 6x7
